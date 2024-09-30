@@ -5,6 +5,9 @@ app.set('view engine','ejs')
 
 // hahahhahahahha
 
+
+//jlsdfsdljfksldkfjdf
+
 app.get("/",(req,res)=>{
     res.render("home.ejs")
 })
